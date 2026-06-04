@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/matiascarbajal/Administracion/app/app.csproj": {}
+    "/Users/matiascarbajal/Downloads/SistemaVoluntariado/app/app.csproj": {}
   },
   "projects": {
-    "/Users/matiascarbajal/Administracion/app/app.csproj": {
+    "/Users/matiascarbajal/Downloads/SistemaVoluntariado/app/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/matiascarbajal/Administracion/app/app.csproj",
+        "projectUniqueName": "/Users/matiascarbajal/Downloads/SistemaVoluntariado/app/app.csproj",
         "projectName": "app",
-        "projectPath": "/Users/matiascarbajal/Administracion/app/app.csproj",
+        "projectPath": "/Users/matiascarbajal/Downloads/SistemaVoluntariado/app/app.csproj",
         "packagesPath": "/Users/matiascarbajal/.nuget/packages/",
-        "outputPath": "/Users/matiascarbajal/Administracion/app/obj/",
+        "outputPath": "/Users/matiascarbajal/Downloads/SistemaVoluntariado/app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/matiascarbajal/.nuget/NuGet/NuGet.Config"
