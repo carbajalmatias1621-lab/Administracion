@@ -14,7 +14,6 @@ namespace Voluntariado
         public override void MostrarInfo()
         {
             Console.WriteLine("--- Voluntario ---");
-            Console.WriteLine("ID: " + id);
             Console.WriteLine("Nombre: " + nombre + " " + apellido);
             Console.WriteLine("Horas trabajadas: " + horasTrabajadas);
             Console.WriteLine();
