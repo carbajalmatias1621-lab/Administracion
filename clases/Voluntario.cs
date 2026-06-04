@@ -7,7 +7,7 @@ namespace Voluntariado
         public int horasTrabajadas;
 
         public Voluntario(string nombre, string apellido, int horas)
-            : base(id, nombre, apellido)
+            : base(nombre, apellido)
         {
             this.horasTrabajadas = horas;
         }
