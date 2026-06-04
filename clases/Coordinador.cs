@@ -7,8 +7,8 @@ namespace Voluntariado
         public string area;
         public int personasACargo;
 
-        public Coordinador(int id, string nombre, string apellido, string area, int personasACargo)
-            : base(id, nombre, apellido)
+        public Coordinador(string nombre, string apellido, string area, int personasACargo)
+            : base(nombre, apellido)
         {
             this.area = area;
             this.personasACargo = personasACargo;
@@ -16,7 +16,6 @@ namespace Voluntariado
         public override void MostrarInfo()
         {
             Console.WriteLine("--- Coordinador ---");
-            Console.WriteLine("ID: " + id);
             Console.WriteLine("Nombre: " + nombre + " " + apellido);
             Console.WriteLine("Area asignada: " + area);
             Console.WriteLine("Personas a cargo: " + personasACargo);
