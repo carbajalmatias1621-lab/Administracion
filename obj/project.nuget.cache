@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MaLL5zNyHw=",
+  "success": true,
+  "projectFilePath": "/Users/matiascarbajal/Downloads/SistemaVoluntariado/SistemaVoluntariado.csproj",
+  "expectedPackageFiles": [
+    "/Users/matiascarbajal/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/matiascarbajal/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/matiascarbajal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
